@@ -1,6 +1,6 @@
 [Plugin]
 Loader=python3
-Module=gedit-whitespace/
+Module=gedit-whitespace
 IAge=3
 Name=Gedit Whitespace
 Description=A Python plugin to modify gedit whitespace configurations
